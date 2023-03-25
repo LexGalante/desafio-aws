@@ -1,6 +1,7 @@
 # DESAFIO AWS
 Objetivo deste desafio é criar para o participante um ambiente muito similar a uma aplicação real.
 Você enfrentará os desafios de cada passo.
+No arquivo desafio-aws.drawio você encontra um diagrama contendo o desenho esperado de sua solução.
 
 ## PARTE 0
 Para iniciar voce deve criar uma api em sua linguagem de programação favorita, essa tem como objetivo cadastrar e consultar uma lista de contatos.
